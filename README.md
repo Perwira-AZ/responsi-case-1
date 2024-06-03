@@ -1,9 +1,9 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
-Secret String : [SECRET_STRING]
+Nama : Perwira Akhdan Zumarsyah
+NIU : 479386
+Sesi : Senin pagi  
+Secret String : 604fe2b502920a62b605b47fffcaba2068c9d98915d98329623a5fe5984ba6cd20240603012851
 
 ## Checklist Responsi
 
